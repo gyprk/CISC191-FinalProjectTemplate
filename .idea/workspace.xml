@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="447f91bf-cc27-4563-85cc-1ffa46e7e305" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/src/main/java/edu/sdccd/cisc191/ClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/main/java/edu/sdccd/cisc191/ClientApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/src/main/java/edu/sdccd/cisc191/LibraryData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/edu/sdccd/cisc191/LibraryData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GwanLibrary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/src/main/java/edu/sdccd/cisc191/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/main/java/edu/sdccd/cisc191/ServerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GwanLibrary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GwanLibrary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
